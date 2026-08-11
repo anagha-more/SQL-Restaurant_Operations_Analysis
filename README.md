@@ -22,14 +22,14 @@ Maven Analytics( Restaurant Operations Analysis)
 - Objective 1:
 <br>Explore the items table
 <br>Your first objective is to better understand the items table by finding the number of rows in the table, the least and most expensive items, and the item prices within each category.
-[view]
+<br>[view SQL Queries](https://github.com/anagha-more/SQL-Restaurant_Operations_Analysis/blob/main/explore_menu_items.sql)
 
 - Objective 2:
 <br>Explore the orders table
 <br>Your second objective is to better understand the orders table by finding the date range, the number of items within each order, and the orders with the highest number of items.
-[view]
+<br>[view SQL Queries](https://github.com/anagha-more/SQL-Restaurant_Operations_Analysis/blob/main/explor_order_details.sql)
 
 - Objective 3:
 <br>Analyze customer behavior
 <br>Your final objective is to combine the items and orders tables, find the least and most ordered categories, and dive into the details of the highest spend orders.
-[view]
+<br>[view SQL Queries](https://github.com/anagha-more/SQL-Restaurant_Operations_Analysis/blob/main/Customer_behaviour_analysis.sql)
